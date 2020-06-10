@@ -1,0 +1,89 @@
+#app1 {
+	position: relative;
+	top: 0;
+	z-index: 10px;
+	width: 100 %;
+	height: 80px;
+	background: black;
+}
+
+.carousel-inner {
+	margin-left: 150px;
+}
+
+#myCarousel {
+	background: #333333;
+
+}
+
+.message-icon {
+	margin-left: 150px;
+}
+
+.message-wrapper {
+	height: 20px;
+}
+
+.zhinan,
+.iconfont {
+	color: #FFFFFF;
+}
+
+.vip-warpper {
+	margin: 40px 0 20px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+	font-size: 30px;
+	background: #333333;
+	color: hsla(0, 0%, 100%, .9);
+}
+
+.vip-wrapper,
+.more {
+	width: 62px;
+	line-height: 22px;
+	border-radius: 15px;
+	font-size: 12px;
+	text-align: center;
+	border: 1px solid hsla(0, 0%, 100%, .9);
+	margin-left: 40px;
+}
+
+.pay-column,
+.pay-list,
+.img-head {
+	display: block;
+	width: 358px;
+	height: 147px;
+	padding: 0 15px;
+	cursor: pointer;
+}
+
+b.pay {
+	margin-top: -147px;
+	margin-left: 15px;
+	background: linear-gradient(135deg, #fe9061, #e15a29);
+}
+
+.pay-column,.pay-list,b{
+	position: absolute;
+	width: 100px;
+	height: 32px;
+	border-radius: 0 0 4px 0;	
+	text-align: center;
+	font-size: 18px;
+	left: 15px;
+	color: #fff;
+	
+}
+
+.title{
+	display: -webkit-box;
+	height: 56px;
+	-webkit-box-align: center;
+	margin: 0 15px;
+	-webkit-box-pack: justify;
+
+}	
