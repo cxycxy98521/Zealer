@@ -1,0 +1,103 @@
+.wrap{
+	width: 1120px;
+	margin: 0 auto;
+	text-align: center;
+}
+.header {
+	position: relative;
+	height: 64px;
+	margin-top: 72px;
+}
+.header_box{
+	position: absolute;
+	top: 20px;
+	width:1120px;
+	border-top: 1px solid #e5e6e8;
+}
+.header.header_logo{
+	width:240px;
+	display:block;
+	background: #fafcff;
+	position: absolute;
+	left:440x;
+	
+}
+.clear{
+	zoom: 1
+}
+.content{
+	margin-top: 105px ;
+	border-bottom: 1px solid #e5e6e8;
+}
+.content_left{
+	float: left;
+	margin-left: 120px;
+	margin-right: 160px;
+}
+
+.content_right.nav{
+	width: 361px;
+	   height: 28px;
+	   font-size:300px;
+	   font-family: PingFangSC-Regular;
+	   font-weight: 400;
+	   color: #red;
+	   margin: 0 auto 35px;
+	   text-align: center;
+}
+
+ .active{
+color: #F4A223;	
+font-size: 20px;
+} 
+.item{
+	color: #F4A223;
+	font-size: 20px;
+}
+.code{
+	background-color: black;
+}
+.info_space1 .text{
+	background-color: #FAFCFF;
+	margin-bottom: 0px;
+	display: inline-block;
+	height: 14px;
+	line-height: 14px;
+	padding: 14px 18px;
+	outline: none;
+	border:1px solid #e5e6e8;
+    border-radius: 2px;
+	font-size: 13px;
+	color: #999;
+
+
+
+}
+.info_space2 .text{
+	background-color: #FAFCFF;
+	margin-bottom: 0px;
+	display: inline-block;
+	height: 14px;
+	line-height: 14px;
+	padding: 14px 18px;
+	outline: none;
+	border:1px solid #e5e6e8;
+	border-radius: 2px;
+	font-size: 13px;
+	color: #999;
+	width: 500px;
+	margin-top: 5px;
+}
+.alert{
+	width: 300px;
+	font-size:5px;
+}
+.login_info{
+	text-align: left;
+	position: relative;
+	height: 16px;
+	line-height: 16px;
+	text-indent: 12px;
+	width: 478px;
+	
+}
